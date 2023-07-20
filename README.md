@@ -1,0 +1,2 @@
+# V2V-Code-Reproduction
+这是一个对IEEE上的一篇论文V2V_A_Deep_Learning_Approach_to_Variable-to-Variable_Selection_and_Translation_for_Multivariate_Time-Varying_Data中实现多维时变体数据转变问题的代码复现，对该问题的复现过程也是我们的一次项目实践以及对深度学习的实践运用。
